@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 Tech Stack  
-![Static Badge](https://img.shields.io/badge/react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
