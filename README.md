@@ -15,9 +15,6 @@
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
 
 ---
 
@@ -26,9 +23,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
@@ -54,26 +48,15 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zisan-000&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-
----
-
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Zisan-000&theme=tokyonight)
 
 ---
 
-## 📌 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zisan-000&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 - 🌐 GitHub: https://github.com/Zisan-000
-- 📘 Facebook: (add your link here)
-- 💼 LinkedIn: (add if you have)
+- 📘 Facebook: https://www.facebook.com/zobaermahmud.zisan.18
+- 💼 LinkedIn: https://www.linkedin.com/in/zobaer-mahmud-zisan-0bb61430b/
 
 ---
 
