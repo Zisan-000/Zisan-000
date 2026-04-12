@@ -79,4 +79,3 @@
 ⭐ From [Zisan-000](https://github.com/Zisan-000)
 
 
-&cache_seconds=1800
