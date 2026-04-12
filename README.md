@@ -8,8 +8,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Zisan-000&show_icons=true)
+
 
 ## 🔥 Streak
 ![Streak](https://streak-stats.demolab.com/?user=Zisan-000)
