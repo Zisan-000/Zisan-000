@@ -11,14 +11,13 @@
 - 🔭 I’m working on MERN stack projects  
 - ⚡ Love solving problems and building real-world apps  
 - 📚 Exploring new technologies and improving daily  
-
----
 <div align="center">
+---
+
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
 ---
-<div align="center">
 ## ⚙️ Frameworks & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
@@ -31,7 +30,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 
 ---
-<div align="center">
 ## 🤖 AI / ML
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
@@ -42,7 +40,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
 
 ---
-<div align="center">
 ## 💻 OS & Hardware
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
@@ -50,7 +47,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino)
 
 ---
-<div align="center">
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Zisan-000&theme=tokyonight)
 
