@@ -12,7 +12,7 @@
 - ⚡ Love solving problems and building real-world apps  
 - 📚 Exploring new technologies and improving daily  
 <div align="center">
----
+----------------------------------------
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
@@ -51,7 +51,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Zisan-000&theme=tokyonight)
 
 ---
-
+<div align="left">
 ## 📫 Connect with Me
 - 🌐 GitHub: https://github.com/Zisan-000
 - 📘 Facebook: https://www.facebook.com/zobaermahmud.zisan.18
