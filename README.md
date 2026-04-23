@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Zisan
+# Hi, I'm Zisan
 
 💻 MERN Stack Developer  
 🚀 Passionate about building full-stack web applications  
@@ -7,12 +7,20 @@
 
 ---
 
+
 ## 🚀 About Me
 - 🔭 I’m working on MERN stack projects  
 - ⚡ Love solving problems and building real-world apps  
 - 📚 Exploring new technologies and improving daily  
 <div align="center">
+
+  
 ----------------------------------------
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+new+things+%F0%9F%93%9A;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
