@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header using capsule render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2387,E94057,F27121&height=180&section=header&text=Hi%20there!%20I'm%20Zisan%20🌅&fontColor=ffffff&desc=Welcome%20to%20my%20github%20profile&descAlignY=75&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2387,E94057,F27121&height=180&section=header&text=Hi%20there!%20I'm%20Zisan%20🌅&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20github%20profile&descAlignY=75&descSize=20)
 
 </div>
 
