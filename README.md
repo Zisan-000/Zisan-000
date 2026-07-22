@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header using capsule render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Zisan%20🙋🏻‍♀️&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20little%20corner%20of%20the%20internet%20💫&descAlignY=55&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Zisan%20🙋)
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+new+things+%F0%9F%93%9A;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
